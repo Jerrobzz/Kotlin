@@ -10,4 +10,8 @@ fun main(args: Array<String>) {
     var sum = a + b
     println(sum)
 
+    var c = 100
+    var d = 50
+    var result = c - d
+    println(result)
 }
