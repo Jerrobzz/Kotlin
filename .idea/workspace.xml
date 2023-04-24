@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e95c3e8d-c115-4e00-bf00-fd120885b539" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Datatypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhileQuiz.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercise 2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfStatements exercise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfStatements.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoop exercise.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -43,23 +51,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SimpleCalcKt">
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+  <component name="RunManager" selected="Kotlin.DoWhileQuizKt">
+    <configuration name="DoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoopKt" />
       <module name="Kotlin1_Jeremy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleCalcKt" />
+    <configuration name="DoWhileQuizKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileQuizKt" />
       <module name="Kotlin1_Jeremy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="Exercise_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_2Kt" />
+      <module name="Kotlin1_Jeremy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
+      <module name="Kotlin1_Jeremy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoop_exerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoop_exerciseKt" />
       <module name="Kotlin1_Jeremy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,9 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SimpleCalcKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.DoWhileQuizKt" />
+        <item itemvalue="Kotlin.DoWhileLoopKt" />
+        <item itemvalue="Kotlin.WhileLoop_exerciseKt" />
+        <item itemvalue="Kotlin.ForLoopKt" />
+        <item itemvalue="Kotlin.Exercise_2Kt" />
       </list>
     </recent_temporary>
   </component>
